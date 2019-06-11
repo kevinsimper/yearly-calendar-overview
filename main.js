@@ -1,4 +1,4 @@
-import dayjs from "https://unpkg.com/dayjs/esm/index.js?module";
+import dayjs from "https://unpkg.com/dayjs-es?module";
 
 let firstDay = dayjs("2019-01-01");
 let calendar = "";
